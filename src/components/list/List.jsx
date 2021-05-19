@@ -1,12 +1,12 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-
+import Card from './Card'
 const List = ({ cards }) => {
     return (
-    <ul>
-        {cards.map(card => {
+    <ul aria-label="cards">
+        {cards.map(card => (
             <Card card={card} key={card.id}/>
-        })}
+        ))}
     </ul>
     );
 };

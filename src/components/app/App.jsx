@@ -22,12 +22,9 @@ export default function App() {
               <CardDetailContainer {...routerProps} />
             )}
           />
-
           <Route />
         </Switch>
       </Router>
     </div>
-
-
   );
 }

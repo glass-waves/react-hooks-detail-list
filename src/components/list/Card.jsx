@@ -1,10 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
-import CardDetailContainer from '../../containers/CardDetailContainer';
+
 const Card = ({ card }) => {
     return (
-        <Link>
+        <Link to={card.id}>
             <li>
                 <h1>{card.name}</h1>
                 <img src={card.image} alt={card.name} />
