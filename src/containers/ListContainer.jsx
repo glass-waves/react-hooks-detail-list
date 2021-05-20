@@ -1,20 +1,10 @@
-import React, { useState, useEffect } from 'react'
-import fetchCards from '../services/fetchCards';
 import List from '../components/list/List'
+import { useFetch } from '../hooks/useFetch'
+import React from 'react';
 
 const ListContainer = () => {
-    const [cardList, setCardList] = useState(null);
-    const [loading, setLoading] = useState(true);
 
-
-    useEffect(() => {
-        (async() => {
-            const cards = await fetchCards();
-            
-            setCardList(cards);
-            setLoading(false);
-        })();
-    }, []);
+    const { cardList, loading} = useFetch(); 
 
     if (loading) return <h1>Loading</h1>;
 
