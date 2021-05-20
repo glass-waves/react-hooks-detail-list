@@ -104,6 +104,7 @@ exports[`ListContainer renders a list of magic cards to the page 1`] = `
       </h1>
       <img
         alt="Benalish Knight"
+        src="NA"
       />
     </li>
   </a>
@@ -142,6 +143,7 @@ exports[`ListContainer renders a list of magic cards to the page 1`] = `
       </h1>
       <img
         alt="Contaminated Bond"
+        src="NA"
       />
     </li>
   </a>
@@ -154,6 +156,7 @@ exports[`ListContainer renders a list of magic cards to the page 1`] = `
       </h1>
       <img
         alt="Drudge Skeletons"
+        src="NA"
       />
     </li>
   </a>
@@ -179,6 +182,7 @@ exports[`ListContainer renders a list of magic cards to the page 1`] = `
       </h1>
       <img
         alt="Fear"
+        src="NA"
       />
     </li>
   </a>
@@ -204,6 +208,7 @@ exports[`ListContainer renders a list of magic cards to the page 1`] = `
       </h1>
       <img
         alt="Hypnotic Specter"
+        src="NA"
       />
     </li>
   </a>
@@ -658,6 +663,7 @@ exports[`ListContainer renders a list of magic cards to the page 1`] = `
       </h1>
       <img
         alt="Ascendant Evincar"
+        src="NA"
       />
     </li>
   </a>
@@ -709,6 +715,7 @@ exports[`ListContainer renders a list of magic cards to the page 1`] = `
       </h1>
       <img
         alt="Bog Wraith"
+        src="NA"
       />
     </li>
   </a>
@@ -773,6 +780,7 @@ exports[`ListContainer renders a list of magic cards to the page 1`] = `
       </h1>
       <img
         alt="Robe of Mirrors"
+        src="NA"
       />
     </li>
   </a>
@@ -798,6 +806,7 @@ exports[`ListContainer renders a list of magic cards to the page 1`] = `
       </h1>
       <img
         alt="Rootwater Commando"
+        src="NA"
       />
     </li>
   </a>
@@ -849,6 +858,7 @@ exports[`ListContainer renders a list of magic cards to the page 1`] = `
       </h1>
       <img
         alt="Sage Owl"
+        src="NA"
       />
     </li>
   </a>
@@ -874,6 +884,7 @@ exports[`ListContainer renders a list of magic cards to the page 1`] = `
       </h1>
       <img
         alt="Scalpelexis"
+        src="NA"
       />
     </li>
   </a>
@@ -925,6 +936,7 @@ exports[`ListContainer renders a list of magic cards to the page 1`] = `
       </h1>
       <img
         alt="Shimmering Wings"
+        src="NA"
       />
     </li>
   </a>
@@ -963,6 +975,7 @@ exports[`ListContainer renders a list of magic cards to the page 1`] = `
       </h1>
       <img
         alt="Sky Weaver"
+        src="NA"
       />
     </li>
   </a>
@@ -988,6 +1001,7 @@ exports[`ListContainer renders a list of magic cards to the page 1`] = `
       </h1>
       <img
         alt="Mortivore"
+        src="NA"
       />
     </li>
   </a>
@@ -1195,6 +1209,7 @@ exports[`ListContainer renders a list of magic cards to the page 1`] = `
       </h1>
       <img
         alt="Dusk Imp"
+        src="NA"
       />
     </li>
   </a>
@@ -1272,6 +1287,7 @@ exports[`ListContainer renders a list of magic cards to the page 1`] = `
       </h1>
       <img
         alt="Nekrataal"
+        src="NA"
       />
     </li>
   </a>
